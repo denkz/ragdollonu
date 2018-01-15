@@ -1,2 +1,2 @@
-client_script 'client2.lua'
-server_script 'server3.lua'
+client_script 'client.lua'
+server_script 'server.lua'
